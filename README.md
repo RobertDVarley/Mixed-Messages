@@ -1,7 +1,7 @@
 # Mixed Messages
 This was part of the mixed messages project from CodeCademy.
 
-This code was made through Visual Code Studio, recognised as JavaScript by saving it as a .js file. This ran in Node, and the debug console showed this to work by generating a mixed message of a composer (12 in total), location action (4 in total), location list (12 in total), verb (12 in total), and other person list (12 in total). This was followed by a function to create random text, creating a random number based on the input array, choosing random indexes from the different aways before putting it together with interpolation and console log additions ('Did you know?' and '?')
+This code was made through Visual Code Studio, recognised as JavaScript by saving it as a .js file. This ran in Node, and the debug console showed this to work by generating a mixed message of a composer (12 in total), location action (4 in total), location list (12 in total), verb (12 in total), and other person list (12 in total). This was followed by a function to create random text, creating a random number based on the input array, choosing random indexes from the different arrays before putting it together with interpolation and console log additions ('Did you know?' and '?')
 
 ## Step one: Plan your project
 
